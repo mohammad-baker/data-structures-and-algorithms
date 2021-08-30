@@ -116,7 +116,7 @@ const addValues = (arr, value) => {
   
   
   arr.forEach(element => { 
-    arrray.push(value+[]);
+    array.push(value+[]);
 
   });
 };
